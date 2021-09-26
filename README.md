@@ -263,7 +263,7 @@ end_gcode:
 ### Bed Mesh
 
 If you use a bed mesh, the coordinates for probing on the print bed must be exactly the
-relative reference point of the mesh since this is the zero point! But, you can ommit
+relative reference point of the mesh since this is the zero point! But, you can omit
 these properties completely now and the relative reference point of the mesh will be
 taken automatically (for this, the "bed_mesh:relative_reference_index" setting is required
 and there is no support for round bed/mesh so far)!
