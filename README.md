@@ -290,7 +290,7 @@ offset base = OP (Operation Position) - switch body height
 
 ### Moonraker Updater
 
->:point_up: **Attention:** If this was already configure prior to version 0.8,
+>:point_up: **Attention:** If this was already configured prior to version 0.8,
 > a manual execution of the "install.sh" script is needed to update the soft link and
 > the dummy service definition like: `/home/pi/klipper_z_calibration/install.sh`!
 
