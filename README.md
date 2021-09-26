@@ -96,7 +96,7 @@ independent of any offset calibrations - forever. This is so amazing! :tada:
 - (My previous Klipper macro for compensating the temperature based expansion of the
   Z endstop rod is **not** needed anymore.)
 
->:point_up: **Note:** After copying the pyhton script, a full Klipper service restart is needed to
+>:point_up: **Note:** After copying the python script, a full Klipper service restart is needed to
 > load it!
 
 ## What It Does
