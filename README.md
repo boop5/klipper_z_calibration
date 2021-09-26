@@ -135,7 +135,7 @@ the first layer.
 
 ### Interference
 
-Temperature or humindity changes are not a big deal since the switch is not affected much
+Temperature or humidity changes are not a big deal since the switch is not affected much
 by them and all values are probed in a small time period and only the releations to each
 other are used. The nozzle height in step 2 can be determined some time later and even
 many celsius higher in the printer, compared to the homing in step 1. That is why the
